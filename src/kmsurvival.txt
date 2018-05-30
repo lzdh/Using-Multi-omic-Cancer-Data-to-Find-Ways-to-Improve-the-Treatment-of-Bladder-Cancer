@@ -1,4 +1,0 @@
-clinical <- read.csv("C:/Users/Iliana Peneva/Desktop/UHB Group Project/phenombigclusters.csv", header = TRUE)
-clinical$PatientID <- substr(clinical$PatientID,9,12)
-s <- Surv(clinical$days_to_last_followup,clinical$vital_status)
-kmsurvival <- survfit(s ~ clinical$CLUSTER)
