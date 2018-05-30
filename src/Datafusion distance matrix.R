@@ -1,4 +1,4 @@
-# You can find "Clustering patients.csv" on the googledrive under data"
+# You can find "Clustering patients.csv" on the googledrive under data" - not available here
 clusteringtable <- read.csv("Clustering patients.csv", TRUE, ",")
 clusteringtable <- clusteringtable[1:95,1:4]
 
