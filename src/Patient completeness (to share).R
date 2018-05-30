@@ -1,6 +1,4 @@
-# A look at how complete the data is. If we would like to compare clusters for each data type - then we need to use subsets of each data
-# for which we have the same patients across all data sets
-
+# A look at how complete the data is - check how many patients have all info (gene expression, copy number variation etc)
 # Explanation about patient ID
 #"TCGA.BT.A20R.01A.12R.A16R.075" Note that the "A20R" part is the patient
 
