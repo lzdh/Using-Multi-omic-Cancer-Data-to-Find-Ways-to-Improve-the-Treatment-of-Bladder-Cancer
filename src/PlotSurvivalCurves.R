@@ -1,3 +1,7 @@
+## R script is courtesy of Dr Richard S Savage
+
+## Script to plot nice Kaplan Meier curves
+
 ##Function to plot survival curves for the output of a ISDF run
 ##NOTE:  we assume here that the timeToEvent is given in months
 ##
