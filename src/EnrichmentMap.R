@@ -1,3 +1,5 @@
+## This script is courtesy of Dr Richard S Savage 
+## 
 ##Function to generate an Enrichment Map, given an input list of human genes
 ##
 ##NOTE:  we may also wish to do this for feature sets that are not genes??
