@@ -1,4 +1,4 @@
-# R script for survival analysis
+# R script for survival analysis of patient subtypes defined by gene expression
 setwd("C:/Users/Esther Wershof/Dropbox/Group project")
 library(survival)
 
