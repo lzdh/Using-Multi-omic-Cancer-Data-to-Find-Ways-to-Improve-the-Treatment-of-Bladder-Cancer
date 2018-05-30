@@ -1,3 +1,5 @@
+# how to access Synapse data 
+
 #data <- synGet('syn1661523')
 #localFilePath <- data@filePath
 localFilePath <- "<Path>/BLCA.sig_genes.txt"
