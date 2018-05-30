@@ -1,3 +1,5 @@
+## Script courtesy of Dr. Richard S Savage
+
 ##Script to test out the generation of enrichment maps
 ##
 ##----------------------------------------------------------------------
