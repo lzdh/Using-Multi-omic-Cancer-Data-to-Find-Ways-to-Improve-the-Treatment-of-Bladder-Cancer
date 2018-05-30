@@ -1,3 +1,5 @@
+## R script courtesy of Dr Richard S Savage
+
 ##My own version of the GCSA method 'viewEnrichmentMap', extracted as a function.
 ##I've done this so that I can play around with various of the plotting parameters
 ##
