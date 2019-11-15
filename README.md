@@ -3,19 +3,8 @@
 ## This is a group project, done by Z. Liu, G. Mizzi, I. Peneva and E. Wershof.
 
 ### Abstract
-In recent literature on bladder cancer there is call time and time again for better identification of
-
-cancer subtypes. Broadly, bladder cancer can be split into two types: muscle invasive and non-
-muscle invasive. By successfully identifying sub-phenotypes of bladder cancer using multi-omic
-
-data, we hope to be better able to personalise cancer care and choose appropriate treatments. To
-achieve this goal, we analysed the rich data source available to us via The Cancer Genome Atlas,
-in particular focussing on Methylation, Gene Expression and Copy Number Variation data. We
-found evidence supporting current research on using the gene AQP1 as a bladder cancer biomarker.
-We classified a subgroup of patients with a higher mean age, who had highly methylated genes but
-better survival prognosis. Further, we identified ways in which multi-omic data could be used to
-provide more detail than the currently used TNM system. Finally, we performed Multiple Dataset
-Integration (MDI) to provide a way of combining the different data types.
+In recent literature on bladder cancer there is call time and time again for better identification of cancer subtypes. Broadly, bladder cancer can be split into two types: muscle invasive and non-muscle invasive. By successfully identifying sub-phenotypes of bladder cancer using multi-omic data, we hope to be better able to personalise cancer care and choose appropriate treatments. To achieve this goal, we analysed the rich data source available to us via The Cancer Genome Atlas,
+in particular focussing on Methylation, Gene Expression and Copy Number Variation data. We found evidence supporting current research on using the gene AQP1 as a bladder cancer biomarker. We classified a subgroup of patients with a higher mean age, who had highly methylated genes but better survival prognosis. Further, we identified ways in which multi-omic data could be used to provide more detail than the currently used TNM system. Finally, we performed Multiple Dataset Integration (MDI) to provide a way of combining the different data types.
 
 ____
 * Report and supplementary materials are in folder Report.
